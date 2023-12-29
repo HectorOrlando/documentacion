@@ -7,10 +7,10 @@ Este repositorio tiene como objetivo centralizar y documentar conceptos clave re
 
 ## Contenido
 
-- [Principios SOLID](01-solid/principios-solid.md)
-- [Arquitectura Hexagonal](02-arquitectura-hexagonal/arquitectura-hexagonal.md)
-- [Modelado del Dominio](03-modelado-del-dominio/00-orden-de-conceptos.md)
-  - [Values y Objects](03-modelado-del-dominio\01.values-objects.md) 
+- [Principios SOLID](src/01-solid/principios-solid.md)
+- [Arquitectura Hexagonal](src/02-arquitectura-hexagonal/arquitectura-hexagonal.md)
+- [Modelado del Dominio](src/03-modelado-del-dominio/00-orden-de-conceptos.md)
+  - [Values y Objects](src/03-modelado-del-dominio/01.values-objects.md) 
 
 
 
