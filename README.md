@@ -11,6 +11,7 @@ Este repositorio tiene como objetivo centralizar y documentar conceptos clave re
 - [Arquitectura Hexagonal](src/02-arquitectura-hexagonal/arquitectura-hexagonal.md)
 - [Modelado del Dominio](src/03-modelado-del-dominio/00-orden-de-conceptos.md)
   - [Values y Objects](src/03-modelado-del-dominio/01.values-objects.md) 
+  - [Values y Objects](https://github.com/HectorOrlando/documentacion/blob/main/src/03-modelado-del-dominio/01.values-objects.md) 
 
 
 
