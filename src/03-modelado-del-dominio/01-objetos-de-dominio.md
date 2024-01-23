@@ -36,4 +36,4 @@ Un ejemplo podría ser un sistema bancario donde un objeto de dominio podría se
 ---
 
 8. **Imagen**
-![Objeto de Dominio](https://raw.githubusercontent.com/HectorOrlando/documentacion/main/src/img/01-objetos-de-dominio-2.jpeg)
+![Objeto de Dominio](https://raw.githubusercontent.com/HectorOrlando/documentacion/main/src/img/01-objetos-de-dominio-3.jpeg)
