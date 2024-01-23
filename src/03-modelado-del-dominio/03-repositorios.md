@@ -14,5 +14,4 @@ Patrón Repositorio en el contexto del caso de uso UserRegister.
 En resumen, el Patrón Repositorio facilita la separación entre la lógica de la aplicación (caso de uso) y los detalles de almacenamiento (MongoUserRepository), permitiendo una mayor flexibilidad y mantenibilidad en el diseño del sistema
 
 4. ** Imagen del Patrón Repositorio **
-![del Patrón Repositorio]
-(https://raw.githubusercontent.com/HectorOrlando/documentacion/main/src/img/03-patron-repositorio.jpeg)
+ ![del Patrón Repositorio](https://raw.githubusercontent.com/HectorOrlando/documentacion/main/src/img/03-patron-repositorio.jpeg)
