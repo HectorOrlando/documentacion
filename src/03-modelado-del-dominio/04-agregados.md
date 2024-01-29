@@ -20,5 +20,4 @@ En resumen, son una forma de gestionar la complejidad y garantizar la integridad
 
 4. ** Imagen del Patrón Agregado **
 
- ![Agregado]
- (https://raw.githubusercontent.com/HectorOrlando/documentacion/main/src/img/04-agregados.jpeg)
+ ![Agregado](https://raw.githubusercontent.com/HectorOrlando/documentacion/main/src/img/04-agregados.jpeg)
