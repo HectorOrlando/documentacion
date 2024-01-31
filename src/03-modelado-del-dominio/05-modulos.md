@@ -16,4 +16,4 @@ En términos prácticos, un módulo puede estar compuesto por varios agregados, 
 
 4. ** Imagen de Módulo **
 
- ![Módulo](https://raw.githubusercontent.com/HectorOrlando/documentacion/main/src/img/05-crear-modulos-para-luego-Bounded-Contexts.jpeg)
+ ![Módulo](https://raw.githubusercontent.com/HectorOrlando/documentacion/main/src/img/05-crear-modulos-para-luego-Bounded-Contexts.png)
