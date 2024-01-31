@@ -14,6 +14,6 @@ Aquí hay algunas características clave de los módulos en DDD:
 
 En términos prácticos, un módulo puede estar compuesto por varios agregados, entidades, objetos de valor y otros componentes relacionados. La idea es organizar el código de manera que sea fácil de entender, mantener y evolucionar a medida que el sistema crece y se modifica con el tiempo. La definición exacta de un módulo puede variar según el contexto y las preferencias del equipo de desarrollo.
 
-4. ** Imagen de Módulo **
+6. ** Imagen de Módulo **
 
  ![Módulo](https://raw.githubusercontent.com/HectorOrlando/documentacion/main/src/img/05-crear-modulos-para-luego-Bounded-Contexts.png)
