@@ -15,3 +15,6 @@
 
 **Imagen:** 
 Quiero que generes la imagen que Visualiza esta historia mental: el diamante es inmutable, el detective descubre atributos únicos, coloca el objeto en una caja fuerte con lógica encapsulada y, finalmente, la caja fuerte está conectada globalmente al globo terráqueo, destacando la inmutabilidad a nivel mundial.
+
+---
+test de prueba para Github desktop
