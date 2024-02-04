@@ -19,3 +19,4 @@ Quiero que generes la imagen que Visualiza esta historia mental: el diamante es 
 ---
 test de prueba para Github desktop
 ---
+otro test de pruebas para luego borrar.
