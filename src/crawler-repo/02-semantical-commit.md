@@ -40,3 +40,6 @@ Estos ejemplos son genéricos y puedes ajustar los mensajes según tus necesidad
      ```
 
 Recuerda que la clave para un buen uso de commits semánticos es ser consistente y seguir las convenciones establecidas en tu equipo o proyecto. Al seguir una convención clara, facilitas la comprensión del historial de cambios y haces que el proceso de revisión y seguimiento del desarrollo sea más eficiente.
+
+---
+Fin.
