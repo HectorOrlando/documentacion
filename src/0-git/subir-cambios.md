@@ -12,7 +12,11 @@ Si deseas hacer un push a la rama llamada `NombreRama`, aquí tienes las instruc
 
 3. **Realiza el commit con un mensaje descriptivo:**
    ```bash
-   git commit -m "Mensaje descriptivo de tus cambios"
+   git commit -m "[feat, refactor, fix, chore] Mensaje de tus cambios. "
+   # feat:     añadir código nuevo.
+   # refactor: refactorizar código hecho.
+   # fix:      hacer corregir manejo incorrecto.
+   # chore:    actualizar dependencias y scripts de construcción.
    ```
 
 4. **Realiza el push a la rama remota:**
