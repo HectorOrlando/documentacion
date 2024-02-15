@@ -10,9 +10,9 @@ Si deseas hacer un push a la rama llamada `NombreRama`, aquí tienes las instruc
    git add .  # Esto agregará todos los archivos modificados
    ```
 
-3. **Realiza el commit con un mensaje descriptivo:**
+3. **Realiza el commit con un mensaje descriptivo NOTA "el mensaje siempre en minúsculas" :**
    ```bash
-   git commit -m "[feat, refactor, fix, chore] Mensaje de tus cambios. "
+   git commit -m "[feat, refactor, fix, chore] mensaje de tus cambios. "
    # feat:     añadir código nuevo.
    # refactor: refactorizar código hecho.
    # fix:      hacer corregir manejo incorrecto.
