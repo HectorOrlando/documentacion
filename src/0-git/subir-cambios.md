@@ -12,7 +12,7 @@ Si deseas hacer un push a la rama llamada `NombreRama`, aquí tienes las instruc
 
 3. **Realiza el commit con un mensaje descriptivo NOTA "el mensaje siempre en minúsculas" :**
    ```bash
-   git commit -m "[feat, refactor, fix, chore] mensaje de tus cambios. "
+   git commit -m "[feat, refactor, fix, chore] mensaje de tus cambios siempre en minúsculas.  "
    # feat:     añadir código nuevo.
    # refactor: refactorizar código hecho.
    # fix:      hacer corregir manejo incorrecto.
