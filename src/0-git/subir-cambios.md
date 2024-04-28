@@ -28,4 +28,4 @@ Si deseas hacer un push a la rama llamada `NombreRama`, aquí tienes las instruc
    ```bash
    git push -u origin NombreRama
    ```
-5. **Fin.**
+5. **Fin. prueba con WSL**
