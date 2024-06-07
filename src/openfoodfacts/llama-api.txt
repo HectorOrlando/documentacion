@@ -1,0 +1,3 @@
+Hacer una peticion GET:
+
+https://world.openfoodfacts.org/api/v2/product/5449000000774.json?fields=product_name_es,generic_name,ingredients_text_es
