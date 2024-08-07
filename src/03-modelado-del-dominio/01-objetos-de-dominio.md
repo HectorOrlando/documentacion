@@ -1,4 +1,8 @@
-Un objeto de dominio es un concepto fundamental en el diseño de software orientado a dominios (Domain-Driven Design o DDD). En DDD, un "dominio" se refiere al área de conocimiento o actividad a la cual se aplica el software. Los objetos de dominio son representaciones en código de los conceptos clave y las reglas de negocio dentro de ese dominio específico.
+***Qué es un objetos de dominio:***
+
+ Son representaciones en código de los conceptos clave y las reglas de negocio dentro de ese dominio específico.
+
+---
 
 Aquí hay algunas características clave de los objetos de dominio:
 
