@@ -1,6 +1,6 @@
 **Qué es un Patrón Repositorio:**
 
-El repositorio actúa como un intermediario entre la capa de dominio y la capa de infraestructura.
+El Patrón Repositorio actúa como un intermediario que separa las preocupaciones de la lógica de negocio y la orquestación de casos de uso (Domain y Application) de los detalles de persistencia y acceso a datos (Infrastructure). Esto facilita la mantenibilidad, la escalabilidad y la flexibilidad del sistema.
 
 ---
 
