@@ -1,7 +1,8 @@
 **Características del Patrón de Diseño Value Object:**
 
-0. **Que es un Value Object**
+1. **Que es un Value Object**
   - Los Value Objects se utilizan para representar conceptos que no necesitan una identidad única, como cantidades, fechas, direcciones, etc., y ayudan a mantener el modelo de dominio limpio y expresivo.
+
 
 2. **Inmutabilidad:**
    - Los "Value Objects" son inmutables, lo que significa que una vez creados, no pueden ser modificados. Esto garantiza que su estado no cambie durante su ciclo de vida, lo que simplifica el razonamiento sobre su comportamiento.
